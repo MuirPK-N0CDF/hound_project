@@ -9,4 +9,4 @@ I am testing the antenna with a HackRF One, RTL-SDR, BaoFeng GT-5R, FT-60, and a
 
 If you make an improvement to my design or code, share it. If you write code for a different microcontroller, or build a frame for a different radio, let me know or make your own repo. Contact me and I may link it. If you want it added here, I can do that too.
 
-Amateur radio operators and/or clubs: print as many of my devices as you see fit. If you build these devices, please use them. Get the local scouts or a church youth group involved, or start a club at the local high school. Spread the love of radio to your community.
+Amateur radio operators and/or clubs: print as many of my antennas as you see fit. If you build these antennas, please use them. Get the local scouts or a church youth group involved, or start a club at the local high school. Spread the love of radio to your community.
